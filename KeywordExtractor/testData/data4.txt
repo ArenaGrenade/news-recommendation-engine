@@ -1,0 +1,63 @@
+
+Who is furthest along?
+
+US drugmaker Pfizer and German partner BioNTech are the coronavirus vaccine trailblazers.
+
+On November 18, they became the first in the world to release full late-stage trial data. Britain was the first to approve the shot for emergency use on December 3, followed by Canada on December 9 and the US Food and Drug Administration (FDA) on December 11.
+
+The European Medicines Agency (EMA) is due to complete its review of the shot by December 29 and India is accelerating its review.
+Who will be next?
+
+US pharmaceutical company Moderna is ahead of the pack at this point. It was next to release full data analysis for a late-stage trial on November 30, with its vaccine showing a 94.1 per cent efficacy rate. FDA advisers are due to review it on December 17 and the EMA will do so by January 12.
+Who else is in the running?
+
+Britain's AstraZeneca is seeking approval for its vaccine in Britain after announcing interim late-stage trial data on November 23. It had an average efficacy rate of 70 per cent and as much as 90 per cent for a subgroup of trial participants who got a half dose first, followed by a full dose.
+
+However, it is not clear how the regulator will deal with the different dosages in the efficacy data in its assessment.
+
+While India is conducting an accelerated review, it has asked for more data. AstraZeneca is also in discussions with the EMA, which is conducting a rolling review of the vaccine.
+
+
+
+US drugmaker Johnson & Johnson plans to deliver trial data this year, or early in 2021, teeing it up for US authorization in February if its shot is effective. It reduced the enrollment target for its clinical trial to 40,000 volunteers from 60,000 on December 9, potentially speeding results which are tied to how quickly participants become infected.
+
+US firm Novavax is running a late-stage trial in Britain with data due in the first quarter of 2021. It expects to start a large-scale trial in the United States this month.
+
+France's Sanofi and Britain's GlaxoSmithKline, however, announced a setback on December 11 in their attempts to develop a vaccine. The drugmakers said it showed an insufficient immune response in older people in mid-stage trials and that they would start a new study in February.
+What happens in the trials?
+
+The companies typically test their vaccines against a placebo - typically saline solution - in healthy volunteers to see if the rate of COVID-19 infection among those who got the vaccine is significantly lower than in those who received the dummy shot.
+How are volunteers infected?
+
+The trials rely on subjects becoming naturally infected with COVID-19, so how long it takes to generate results largely depends on how pervasive the virus is where trials are being conducted. Each drugmaker has targeted a specific number of infections to trigger a first analysis of their data.
+How well are the vaccines supposed to work?
+
+The World Health Organization ideally wants to see at least 70 per cent efficacy. The FDA wants at least 50 per cent - which means there must be at least twice as many infections among volunteers who received a placebo as among those in the vaccine group. The EMA has said it may accept a lower efficacy level.
+
+
+How will COVID-19 vaccines stop coronavirus in its tracks?
+
+The creation of vaccines against COVID-19 has been a bioengineering feat setting a record in research, manufacture, approvals and administration. Read more
+What about Russia and China?
+
+While Pfizer's shot was the first to be rolled out following the publication of full Phase III trial data, Russia and China have been inoculating their citizens for months with several different vaccines still undergoing late-stage trials.
+
+Russia said on November 24 that its Sputnik V vaccine, developed by the Gamaleya Institute, was 91.4 per cent effective based on interim late-stage trial results. It started vaccinations in August and has inoculated more than 100,000 people so far.
+
+AstraZeneca said on December 11 that it would test a combination of its vaccine with one of Sputnik V's two components to try to boost the efficacy of the shot it is developing with Oxford University.
+
+China launched an emergency use programme in July aimed at essential workers and others at high risk of infection. It has vaccinated about one million people as of mid-November using at least three shots - two developed by the state-backed China National Biotec Group (CNBG) and one by Sinovac Biotech.
+
+Sinovac said on November 18 that mid-stage trial results showed its CoronaVac shot triggered a quick immune response and interim data from its late stage trial could come this year.
+
+The Butantan Institute, a Brazilian biomedical centre, is producing CoronaVac and aims to make 1 million doses a day ahead of a vaccine campaign to be launched late January.
+
+The United Arab Emirates said on December 9 that one of the CNBG vaccines was 86 per cent effective based on interim results from a late-stage trial in the country.
+Which COVID-19 vaccine has been officially registered in the UAE?
+
+In July, UAE kicked off a Phase III trials for a vaccine developed by Chinese experts. It was referred to as the Sinopharm inactivated vaccine.
+
+Sinopharm refers to the state-owned pharmaceutical group in China, the China National Pharmaceutical Group or Sinopharm Group. Its vaccine and bioscience subsidiary is the China National Biotec Group Co Ltd (CNBG). Read more
+Do intranasal vaccines work better?
+
+Could an intranasal vaccine be more effective than instramuscular shots trained against COVID-19? This question is currently foremost in the minds of a number of vaccine developers. Recently, a research team did a comparative study in mice, with results suggesting that intranasal vaccines were more effective in conferring immunity to SARS-CoV-2 than intramuscular shots.
